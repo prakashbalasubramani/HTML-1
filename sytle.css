@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: lightsteelblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:larger;
+     padding: 5px 25px;
+}
+img{
+
+
+    nav-up: current;
+    margin: 22px 10px 10px 0px;
+    float: left;
+}
+ul.nav a:link,ul.nav a:visited{
+    display: block;
+    width: 330px;
+    color: blue;
+    background-color:lightseagreen;
+    padding:3px;
+    text-decoration: none;
+}
+
+ol li, ul li{
+    list-style-position: inside;
+}
+
+.nav div{
+    display: inline;
+    margin-right: 50px;
+}
+
+.nav {
+    background-color: rgb(196, 255, 230);
+
+}
+
+.deeep{
+    text-align:left;
+    font-align: large:
+}
+
+.we{
+    text-align: left;
+}
